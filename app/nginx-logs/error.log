@@ -1,0 +1,2 @@
+2014/12/11 17:38:26 [emerg] 52#0: duplicate listen options for 0.0.0.0:80 in /etc/nginx/sites-enabled/frontend.conf:2
+2014/12/11 17:42:37 [emerg] 48#0: duplicate listen options for 0.0.0.0:80 in /etc/nginx/sites-enabled/frontend.conf:2
